@@ -107,3 +107,45 @@
       justify-content: space-around;
       flex-wrap: wrap;
 }
+
+/*  */
+          
+.section{
+      border: 1px solid red;
+}
+.form-type-container{
+      height: 1200px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+
+.form-type{
+      border: 1px solid rebeccapurple;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+
+}
+
+.form-type h2{
+      font-weight: 700;
+      font-size: 80px;
+}
+
+#input01{
+      font-size: 40px;
+      padding: 10px;
+      margin-top: 20px;
+      
+}
+
+.button01{
+      border: 0px;
+      border-radius: 5px;
+      color: #ffffff;
+      background-color: #498bf6 ;
+      
+}
+
